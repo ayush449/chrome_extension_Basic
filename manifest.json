@@ -1,0 +1,20 @@
+{
+    "name": "Dad Jokes",
+    "description": "A simplle extension to ticke you with dad jokes",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "picker_16.png"
+    },
+    "icons":{
+        "16":"picker_16.png"
+    },
+
+    
+    "permissions":["activeTab"]
+
+
+   
+
+}
